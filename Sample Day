@@ -1,0 +1,152 @@
+Program1
+ 
+<!Document html>
+<html>
+<title> City Engineering College </title>
+ 
+<body>
+<h1> City Engineering College </h1>
+<h2> City Engineering College </h2>
+<h3> City Engineering College </h3>
+<h4> City Engineering College </h4>
+<h5> City Engineering College </h5>
+<h6> City Engineering College </h6>
+ 
+<p> This is a city engineering colleged<br/>lskdlak
+dafdaskj<br/>
+sISKajskaJSKAJSAMzm</p>
+<a href="http://www.cityengineeringcollege.ac.in">City Engineering College</a>
+<img src="Ganesha.jpeg" alt=Om Gham ganapatayee Namha"/>
+ 
+<div style="background-color:pink; height:300px;">
+<div style="height:100; width:100; background-color:red;">This is a sub part</div>
+<h1> CSE Department<h1></div>
+ 
+<div style="background-color:green; height:200px;">
+<h1> ISE Department<h1></div>
+ 
+<div style="background-color:blue; height:100px;">
+<h1> AI7MLDepartment<h1></div>
+ 
+</body>
+</html>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Program2
+ 
+<!DOCTYPE html>
+<html>
+<h1>The abbr element + the dfn element</h1>
+ 
+<p><dfn><abbr title="Cascading Style Sheets">CSS</abbr>
+</dfn> is a language that describes the style of an HTML document.</p>
+ 
+<p><b>Hover mouse over the content and see the abbreviation</b></p>
+              <abbr title="Hyper Text Transfer protocol">HTTP</abbr>
+ 
+<p>City Engineering College<br/>Doddakallasandra<br/>Near Metro station,<br/> Kanakapura main road<br/> Bangalore.</p>
+ 
+<img src="Ganesha.jpeg" width="100" height="200" alt="The Scream" >
+<p><cite>The Scream</cite> by Edward Munch. Painted in 1893.</p>
+ 
+ <h3>Ordinary text for code tag</h3>
+   <code>Line of program code.</code>
+   <p>Continuation of the ordinary text.</p>
+ 
+<h1>The em element</h1>
+<p>You <em>have</em> to hurry up!</p>
+<p>We <em>cannot</em> live like this.</p>
+ 
+<h3> mark tag</h1>
+<h1>The mark element</h1>
+<p>Do not forget to buy <mark>milk, curd and ghee</mark> today.</p>
+ 
+<h1>The small element</h1>
+<p>This is some normal text.</p>
+<p><small>This is some smaller text.</small></p>
+ 
+<p>City Engineering College is a
+       <span style="color:red;font-weight:bolder">
+           computer science</span> portal for
+       <span style="background-color: lightgreen;">geeks</span>.
+   </p>
+ 
+<title>Strong tag</title>
+<style>
+           h1,h2{
+​text-align: left;
+               }
+          h2{
+         ​color: green;
+           }
+</style>
+<h2>Strong</h2>
+  <p>The weather is not good today.
+   <strong>It may heavy rain today, so it will better to be in your home.</strong>
+ </p>
+ 
+</body>
+</html>
+ 
+ 
+Program 3
+ 
+<!Document html>
+<html.>
+<title>"City Engineering College"</title>
+<H1>CEC Deparmrnt </H1>
+<dody>
+<ol>
+   <li>AI&ML</li>
+   <li>CSE</li>
+   <li>Civil</li>
+   <li>ECE</li>
+   <li>ISE</li>
+   <li>Mech</li>
+</ol>
+ 
+<ul>
+   <li>AI&ML</li>
+   <li>CSE</li>
+   <li>Civil</li>
+   <li>ECE</li>
+   <li>ISE</li>
+   <li>Mech</li>
+</ul>
+ 
+<dl>
+   <dt>AI&ML</dt>
+   <dd>Artificial Inteligence & Machine Learning</dd>
+    <dt>CSE</dt>
+   <dd>Computer Science & Engineering</dd>
+    <dt>ECE</dt>
+   <dd>Electronics & Communication Engineering</dd>
+    <dt>ISE</dt>
+   <dd>Artificial Inteligence & Machine Learning</dd>
+    <dt>HTML</dt>
+   <dd>Artificial Inteligence & Machine Learning</dd>
+    <dt>SQl</dt>
+   <dd>Artificial Inteligence & Machine Learning</dd>
+</dl>
+ 
+ 
+ 
